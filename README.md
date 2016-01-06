@@ -91,6 +91,8 @@ which would yield an `InternalServerError` if the two passwords don't match.
 
 [David R. Bild](https://github.com/drbild)
 
+[Adrien Crovetto](https://github.com/Driox)
+
 ... your name here
 
 ## Credits
