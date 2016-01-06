@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package api.controllers
+package controllers
 
 import play.api.data.Form
 import play.api.data.validation.ValidationError
